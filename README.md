@@ -3,16 +3,15 @@
 I'm Gerrit, a lifelong learner and data enthusiast from Berlin, Germany.
 
 - 🎓 Currently pursuing degrees in Law and Economics at FernUniversität Hagen
-- 💻 Former (and soon again?) Data Scientist with experience in machine learning, predictive maintenance, and big data
+- 💻 Data Scientist with experience in machine learning, predictive maintenance, and big data
 - 🔍 Exploring the intersection of data science, law, and economics
 - 🌟 Passionate about leveraging LLMs for legal and economic analysis
 - 🗣️ Fluent in English and German, with knowledge of Spanish and Latin
 - 📊 Skilled in Python, Java, Scala, and various data science technologies
 
 ### What I'm up to:
-
-- 🔭 Working on prompting LLMs for legal and economic use-cases
-- 📚 Expanding my knowledge in law and economics
+- 🔭 Working on prompting--and leveraging-- LLMs for legal and economic use-cases
+- 📚 Expanding my knowledge
 - 🚀 Continuously improving my data skills
 
 ### Featured Projects:
