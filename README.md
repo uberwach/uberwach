@@ -23,4 +23,4 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 ### Funny
 
-[self-deprecating jokes](https://github.com/uberwach/self-deprecating-jokes.md)
+[self-deprecating jokes](https://github.com/uberwach/uberwach/self-deprecating-jokes.md)
