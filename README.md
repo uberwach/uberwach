@@ -3,7 +3,9 @@ It's Gerrit 🐘
 
 - 📖: currently studying for degrees in laws/econ;
 - ⚡: reinventing myself as going _beyond_ Data Science;
-- 💬: English/German/Spanish and some–wait for it–Latin.
+- 💬: English/German/Spanish and some–wait for it–Latin;
+- 🔭: I’m currently working on prompting LLMs for use-cases in legal or econ. analysis.
+
 <!--
 **uberwach/uberwach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
