@@ -20,3 +20,7 @@ I'm Gerrit, a lifelong learner and data enthusiast from Berlin, Germany.
 - 🍪 [cookiecutter-kaggle](https://github.com/uberwach/cookiecutter-kaggle): A project template for Kaggle competitions
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or discussions on data science, law, or economics!
+
+### Funny
+
+[self-deprecating jokes](https://github.com/uberwach/self-deprecating-jokes.md)
