@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Gerrit, a lifelong learner and data enthusiast from Berlin, Germany.
+I'm Gerrit, a lifelong learner and data enthusiast from Bremen (formerly Berlin/Zurich), Germany. After stints in teaching and crypto, I am looking to return to FTE.
 
-- 🎓 Currently pursuing degrees in Law and Economics at FernUniversität Hagen
+- 🎓 Currently pursuing degrees in Laws, Economics, and Information Systems (Master) at FernUniversität Hagen
 - 💻 Data Scientist with experience in machine learning, predictive maintenance, and big data
 - 🔍 Exploring the intersection of data science, law, and economics
 - 🌟 Passionate about leveraging LLMs for legal and economic analysis
@@ -10,7 +10,7 @@ I'm Gerrit, a lifelong learner and data enthusiast from Berlin, Germany.
 - 📊 Skilled in Python, Java, Scala, and various data science technologies
 
 ### What I'm up to:
-- 🔭 Working on prompting--and leveraging-- LLMs for legal and economic use-cases
+- 🔭 Working on prompting—and leveraging—LLMs for legal and economic use-cases
 - 📚 Expanding my knowledge
 - 🚀 Continuously improving my data skills
 
